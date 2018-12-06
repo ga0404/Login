@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
-import android.support.design.widget.TextInputLayout;
+//import android.support.design.widget.TextInputLayout;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -26,7 +26,7 @@ import android.widget.Toast;
 //import org.greenrobot.eventbus.Subscribe;
 //import org.greenrobot.eventbus.ThreadMode;
 
-//import butterknife.ButterKnife;
+import butterknife.ButterKnife;
 //import io.javac.ManyBlue.ManyBlue;
 //import io.javac.ManyBlue.bean.NotifyMessage;
 //import io.javac.ManyBlue.interfaces.BaseNotifyListener;
